@@ -36,8 +36,11 @@ body {
 }
 
 section {
-  min-height: 100vh;
   padding: 10rem 3% 2rem;
+}
+
+.project {
+  padding-bottom: 10rem;
 }
 
 span {
