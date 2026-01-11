@@ -29,12 +29,6 @@ body {
   color: var(--text-color);
 }
 
-#page-wrapper {
-  position: relative;
-  width: 100%;
-  overflow-x: hidden;
-}
-
 section {
   min-height: 100vh;
   padding: 10rem 3% 2rem;
