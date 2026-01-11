@@ -467,20 +467,17 @@ span {
   .Beranda {
     flex-direction: row;
     gap: 4rem;
+    padding-top: 12rem; /* Adjusted padding-top for desktop */
+  }
+  
+  .home-img img {
+    width: 30vw; /* Reduced image size */
+    max-width: 450px;
   }
   
   .beranda-content {
     flex: 1;
-  }
-
-  .home-img {
-    flex: 1;
-    text-align: right;
-  }
-
-  .home-img img {
-    width: 35vw;
-    max-width: 450px;
+    margin-top: 3rem; /* Added margin to push text down */
   }
 
   .Tentang-saya {
