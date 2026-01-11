@@ -148,7 +148,7 @@ span {
 }
 
 .home-img img {
-  width: 70vw;
+  width: 100%;
   max-width: 280px;
   aspect-ratio: 1 / 1;
   border-radius: 50%;
@@ -224,7 +224,7 @@ span {
 }
 
 .Tentang-img img {
-  width: 70vw;
+  width: 100%;
   max-width: 280px;
 }
 
