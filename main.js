@@ -15,6 +15,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.beranda-content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img, .skill-container, .project-box, .footer-container', { origin: 'bottom' });
+ScrollReveal().reveal('.home-img, .skill-container, .project-box, .sertifikat-box, .footer-container', { origin: 'bottom' });
 ScrollReveal().reveal('.beranda-content h1, .Tentang-img', { origin: 'left' });
 ScrollReveal().reveal('.beranda-content p, .tentang-content', { origin: 'right' });
+
